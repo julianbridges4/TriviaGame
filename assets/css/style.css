@@ -1,0 +1,29 @@
+html {
+
+}
+
+body {
+	background: url(../images/Baseball.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.jumbotron {
+	text-align: center;
+	margin-top: 10%;
+	background: #eee;
+	border: 15px ridge red;
+}
+
+.answer-choices {
+	width: 40%;
+	margin: auto;
+	border-radius: 4px;
+}
+
+.answer-choices:hover {
+	background: red;
+	color: white;
+}
